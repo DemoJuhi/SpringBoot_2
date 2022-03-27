@@ -14,4 +14,9 @@ public class HomeController {
 	{
 		return "This is home page";
 	}
+	
+	public String login()
+	{
+		return "This is login page";
+	}
 }

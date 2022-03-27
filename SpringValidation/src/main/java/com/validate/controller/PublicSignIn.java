@@ -13,5 +13,11 @@ public class PublicSignIn {
 	{
 		return "login";
 	}
+	
+	@GetMapping("/singout")
+	public String signOut()
+	{
+		return "success";
+	}
 
 }
