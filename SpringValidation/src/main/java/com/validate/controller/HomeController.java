@@ -19,4 +19,10 @@ public class HomeController {
 	{
 		return "This is login page";
 	}
+	
+	public void forEclipse()
+	{
+		System.out.println("this is a method to see in eclipse");
+	}
+	
 }
