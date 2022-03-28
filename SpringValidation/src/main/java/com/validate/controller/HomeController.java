@@ -20,9 +20,9 @@ public class HomeController {
 		return "This is login page";
 	}
 	
-	public void forEclipse()
+	public void for_Eclipse()
 	{
-		System.out.println("this is a method to see in eclipse");
+		System.out.println("this is a method to see in eclipse for final commit");
 	}
 	
 }
