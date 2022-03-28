@@ -20,13 +20,10 @@ public class HomeController {
 		return "This is login page";
 	}
 	
-	public void for_Eclipse()
+	public void final_commit(int a)
 	{
-		System.out.println("this is a method to see in eclipse for final commit");
+		a=10;
+		System.out.println("Checking pull action for git in eclipse "+a);
 	}
 	
-	public void final_commit()
-	{
-		System.out.println("this is the final commit to see in eclipse");
-	}
 }
