@@ -20,10 +20,10 @@ public class HomeController {
 		return "This is login page";
 	}
 	
-	public void final_commit(int a)
+	public void final_commit(String a)
 	{
-		a=10;
-		System.out.println("Checking pull action for git in eclipse "+a);
+		a="Spring Tool Suite";
+		System.out.println("Checking pull action for git in STS "+a);
 	}
 	
 }
