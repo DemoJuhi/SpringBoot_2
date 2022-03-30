@@ -41,7 +41,7 @@ public class MyController {
 			
 		}
 		System.out.println(loginData);
-		System.out.println("Hello from process form in myontroller");
+		
 		return "success";
 	}
 	
