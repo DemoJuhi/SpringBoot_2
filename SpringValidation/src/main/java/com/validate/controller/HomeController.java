@@ -17,7 +17,7 @@ public class HomeController {
 	
 	public String login()
 	{
-		return "This is login page";
+		return "This  is login page";
 	}
 	
 	public void final_commit(String a)
