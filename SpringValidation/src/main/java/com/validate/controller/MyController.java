@@ -41,7 +41,7 @@ public class MyController {
 			
 		}
 		System.out.println(loginData);
-		
+		System.out.println("commit again while disconnected git");
 		return "success";
 	}
 	
